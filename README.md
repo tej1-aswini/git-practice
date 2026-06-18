@@ -6,3 +6,7 @@ This repository was created for internship week 1 task 3.
 - git status
 - git add
 - git commit
+
+## BRANCHES
+- master
+- feature/about-page
